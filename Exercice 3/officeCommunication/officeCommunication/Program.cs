@@ -176,6 +176,7 @@ app.MapPost("/Files/UploadFiles", [Authorize] (HttpRequest request) =>
             icmmd.Parameters.AddWithValue("b", 0);
             icmmd.Parameters.AddWithValue("c", file.FileName);
             icmmd.ExecuteNonQuery();
+            
             con.Close();
         }
         catch (MySqlException)
