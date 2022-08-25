@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/10565896/decrypting-in-python-an-string-encrypted-using-net
+
+

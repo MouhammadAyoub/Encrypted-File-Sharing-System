@@ -1,0 +1,3 @@
+https://www.delftstack.com/howto/csharp/encrypt-and-decrypt-a-string-in-csharp/#:~:text=Encrypt%20a%20String%20With%20the%20AesManaged%20Class%20in%20C%23,-Encryption%20is%20the&text=The%20AesManaged%20class%20provides%20methods,to%20the%20CreateEncryptor()%20function.
+
+

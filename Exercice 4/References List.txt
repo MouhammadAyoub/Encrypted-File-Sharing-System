@@ -1,0 +1,6 @@
+ht
+https://stackoverflow.com/questions/31086117/file-upload-to-web-server-using-c-sharp
+
+https://stackoverflow.com/questions/14627399/setting-authorization-header-of-httpclient
+
+https://stackoverflow.com/questions/44676611/how-to-send-json-data-in-post-request-using-c-sharp
