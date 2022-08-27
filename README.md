@@ -2,7 +2,7 @@
 
 <img src="icon.png" align="right" />
 
-# CVs-repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/MouhammadAyoub/CVs-repository)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/CVs-repository)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/CVs-repository)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/CVs-repository)
+# Encrypted-File-Sharing-System</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/CVs-repository)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/CVs-repository)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/CVs-repository)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/CVs-repository)
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
@@ -26,7 +26,7 @@ test test
 
 ### Contribution Guidelines
 
-The contribution guidelines are as per the guide [HERE](https://github.com/MouhammadAyoub/CVs-repository/blob/main/CONTRIBUTING.md).
+The contribution guidelines are as per the guide [HERE](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System/blob/main/CONTRIBUTING.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;[mouhammad.ayoub@outlook.com](mailto:mouhammad.ayoub@outlook.com)
 
-- Project Link : &nbsp;[https://github.com/MouhammadAyoub/CVs-repository](https://github.com/MouhammadAyoub/CVs-repository)
+- Project Link : &nbsp;[https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
