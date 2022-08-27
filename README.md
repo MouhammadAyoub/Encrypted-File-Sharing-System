@@ -8,7 +8,18 @@
 
 ### Description
 
-test test
+It is a set of 5 programs used together to send a file from office A to office B very securely
+- **Part 1 :** &nbsp;Desktop application built with ***WPF*** that takes file as input, encrypt the file, encode to base64, and
+write the output to txt file
+- **Part 2 :** &nbsp;Script written in ***Python*** that decrypts the file created in (Part 1) written in ***C#***, and writes the
+output to a new file. (Decrypting a file using a language different from the language used in the encryption
+is to gain more experience)
+- **Part 3 :** &nbsp;Web application built with ***ASP.NET core*** that receive files from client A using API, save them, and
+- provide to client B when asked for. It have authentication to prevent others from upload or download and
+record every file upload and download to a database table
+- **Part 4 :** &nbsp;Desktop application built with ***WPF*** that take file as input and send the file to web app (Part 3)
+- **Part 5 :** &nbsp;Desktop application built with ***WPF*** (runnable on program of Part 2) that download files from web
+app (Part 3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
