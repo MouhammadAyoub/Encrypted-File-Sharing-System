@@ -60,17 +60,52 @@ Download the project from github to your desktop:
       
       **3.** Unzip it, this will create a folder named after the GitHub repository</br></br>
 
-  - **Steps you must do to make the app work properly** :
+  - **Steps you must do to make the system work properly** :
       
-      - **Exercice 1 :**
+      - **Exercice 1 :** &nbsp;Nothing</br>
       
       - **Exercice 2 :**
+
+          1. Before you install PIP on Windows, check if PIP is already installed:
+          
+              - Type ***cmd*** in the Windows search bar and click the `Command Prompt` icon
+              - Type in the following command at the command prompt
+
+                ```shell
+                pip help
+                ```
+              - If PIP responds, then PIP is installed. Otherwise, there will be an error saying the program could not be found
       
-      - **Exercice 3 :**
+          2. Before installing PIP, download the get-pip.py file:
+
+              - Type ***cmd*** in the Windows search bar and click the `Command Prompt` icon
+              - Run the following command to download the get-pip.py file
+
+                ```shell
+                curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+                ```
+                
+          3. Installing PIP on Windows:
+
+              - To install PIP type in the following
+
+                ```shell
+                python get-pip.py
+                ```
+
+          4. Download Pakages:
+
+              - To install `Crypto` library using PIP type in the following in the ***cmd***
+
+                ```shell
+                pip install pycryptodome
+                ```
+
+      - **Exercice 3 :** &nbsp;
       
-      - **Exercice 4 :**
+      - **Exercice 4 :** &nbsp;
       
-      - **Exercice 5 :**
+      - **Exercice 5 :** &nbsp;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
