@@ -103,9 +103,13 @@ Download the project from github to your desktop:
 
       - **Exercice 3 :**
       
-          1. Launch ***MySQL Workbench*** and create a database with the following specifications</br>
+          1. Launch ***MySQL Workbench*** and create a database with the following specifications
           
-          <img src="Download-Zip.png" width="350px;" /></br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Database-Table.png" width="700px"/>
+      
+          2. Change the ***server***, ***database***, ***user*** and ***password*** values of the ***MySqlConnection*** function in the `Program.cs` file
+          
+          3. Correct all paths to folders in the `Program.cs` file
       
       - **Exercice 4 :** &nbsp;
       
