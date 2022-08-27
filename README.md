@@ -101,7 +101,11 @@ Download the project from github to your desktop:
                 pip install pycryptodome
                 ```
 
-      - **Exercice 3 :** &nbsp;
+      - **Exercice 3 :**
+      
+          1. Launch ***MySQL Workbench*** and create a database with the following specifications</br>
+          
+          <img src="Download-Zip.png" width="350px;" /></br>
       
       - **Exercice 4 :** &nbsp;
       
