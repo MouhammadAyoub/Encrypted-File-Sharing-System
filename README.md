@@ -62,7 +62,15 @@ Download the project from github to your desktop:
 
   - **Steps you must do to make the app work properly** :
       
-      **1.** Change the server name of the `ConnectionStrings` attribute in the `appsetting.json` file</br>
+      - **Exercice 1 :**
+      
+      - **Exercice 2 :**
+      
+      - **Exercice 3 :**
+      
+      - **Exercice 4 :**
+      
+      - **Exercice 5 :**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
