@@ -15,8 +15,6 @@ It is a set of 5 programs used together to send a file from office A to office B
 - **Part 4 :** &nbsp;Desktop application built with ***WPF*** that take file as input and send the file to web app (Part 3)
 - **Part 5 :** &nbsp;Desktop application built with ***WPF*** (runnable on program of Part 2) that download files from the web application (Part 3)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Installation
 
 Download the project from github to your desktop:
