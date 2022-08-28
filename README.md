@@ -155,6 +155,10 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice3-Welcome.png" /></br>
 
+***Note :*** &nbsp;We have a `GetToken` function which provides strong site security without which authentication cannot succeed, and anyone who doesn't have a username and password or enter wrong values can't get the token.
+
+<img src="assets/images/Exercice3-Token.png" /></br>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribution Guidelines
