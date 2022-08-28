@@ -147,7 +147,7 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice1-Encrypted.png" /></br>
 
-- ***Exercice 2 :*** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted by receiving two arguments, the first is the path of the file we need to decrypt and the second is the path where we want to save the result, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later.
+- ***Exercice 2 :*** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted by receiving two arguments, the first is the path of the file we need to decrypt and the second is the path where we want to save the result, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Python-Script.png" width="550px"/>
 
@@ -155,9 +155,21 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice3-Welcome.png" /></br>
 
-***Note :*** &nbsp;We have a `GetToken` function which provides strong site security without which authentication cannot succeed, and anyone who doesn't have a username and password or enter wrong values can't get the token.
+***Note :*** &nbsp;We have a `GetToken` function which provides strong site security without which authentication cannot succeed, and anyone who doesn't have a username and password or enter wrong values can't get the token
 
 <img src="assets/images/Exercice3-Token.png" /></br>
+
+***Note :*** &nbsp;We have an `UploadFiles` function that enables us to upload many files and store them in the web app by just giving the paths to these files
+
+<img src="assets/images/Exercice3-Upload.png" /></br>
+
+***Note :*** &nbsp;We also have a `DownloadFile` function which enables us to download the file from the web application simply by entering its name
+
+<img src="assets/images/Exercice3-Download.png" /></br>
+
+- ***Exercice 4 :*** &nbsp;Send
+
+<img src="assets/images/Exercice4-Welcome.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
