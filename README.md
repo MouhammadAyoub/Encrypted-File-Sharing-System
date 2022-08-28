@@ -6,7 +6,7 @@
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
-### Description
+## Description
 
 It is a set of 5 programs used together to send a file from office A to office B very securely
 - **Part 1 :** &nbsp;Desktop application built with ***WPF*** that takes file as input, encrypt the file, encode to base64, and write the output to txt file
@@ -15,7 +15,7 @@ It is a set of 5 programs used together to send a file from office A to office B
 - **Part 4 :** &nbsp;Desktop application built with ***WPF*** that take file as input and send the file to web app (Part 3)
 - **Part 5 :** &nbsp;Desktop application built with ***WPF*** (runnable on program of Part 2) that download files from the web application (Part 3)
 
-### Installation
+## Installation
 
 Download the project from github to your desktop:
 
@@ -129,19 +129,19 @@ Download the project from github to your desktop:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Usage
+## Usage
 
 test test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contribution Guidelines
+## Contribution Guidelines
 
 The contribution guidelines are as per the guide [HERE](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System/blob/main/CONTRIBUTING.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Instructions
+## Instructions
 
 - Fork this repository
 - Clone your forked repository
@@ -154,14 +154,14 @@ The contribution guidelines are as per the guide [HERE](https://github.com/Mouha
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### License
+## License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System/blob/main/LICENSE) for more information.  
 Copyright © 2022, Mohammad Ayoub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contact
+## Contact
 
 - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;[mouhammad.ayoub@outlook.com](mailto:mouhammad.ayoub@outlook.com)
 
