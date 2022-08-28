@@ -147,9 +147,13 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice1-Encrypted.png" /></br>
 
-- ***Exercice 2 :*** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later.
+- ***Exercice 2 :*** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted by receiving two arguments, the first is the path of the file we need to decrypt and the second is the path where we want to save the result, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Python-Script.png" width="550px"/>
 
+- ***Exercice 3 :*** &nbsp;ِAPI
+
+<img src="assets/images/Exercice3-Save.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
