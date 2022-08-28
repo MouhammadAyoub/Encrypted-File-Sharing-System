@@ -147,7 +147,9 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice1-Encrypted.png" /></br>
 
-- ***Exercice 2 :*** &nbsp;Nothing
+- ***Exercice 2 :*** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
