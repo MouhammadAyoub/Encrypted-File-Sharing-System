@@ -171,15 +171,15 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice4-Welcome.png" /></br>
 
-***Note :*** &nbsp;Send
+***Note :*** &nbsp;Once the file is selected (of course we have to choose one of the files that we have already encrypted using the ثxercice 1 application), the `Send Button` will be clickable, and by clicking on it you will be able to send the file to the web application.
 
 <img src="assets/images/Exercice4-Send.png" /></br>
 
-- ***Exercice 5 :*** &nbsp;Enter Name
+- ***Exercice 5 :*** &nbsp;The function of this application is to allow Office B to `Download Encrypted Files` that Office A has uploaded to the web application
 
 <img src="assets/images/Exercice5-Welcome.png" /></br>
 
-***Note :*** &nbsp;Download
+***Note :*** &nbsp;Once the file name is entered (we did not put a drop down list of the file names on the web application in order to maintain high security, so the user must enter the file name accurately), the `Download Button` will be clickable, and by clicking on it will not only download the file, but also decrypt it by implicitly using the Python script in Exercise 2.
 
 <img src="assets/images/Exercice5-Download.png" /></br>
 
