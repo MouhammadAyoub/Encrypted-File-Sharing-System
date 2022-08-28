@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<img src="icon.png" align="right" />
+<img src="assets/images/icon.png" align="right" />
 
 # Encrypted-File-Sharing-System</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/CVs-repository)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/CVs-repository)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/CVs-repository)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/CVs-repository)
 
@@ -24,7 +24,7 @@ Download the project from github to your desktop:
       
       **1.** Click the green button labeled &nbsp;`Code`</br>
       
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Button-Position.png" width="300px;" /></br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Button-Position.png" width="300px;" /></br>
       
       **2.** Copy the URL of the repository</br>
       
@@ -54,7 +54,7 @@ Download the project from github to your desktop:
       
       **1.** Click on the green `Code` button, then download the repository as a ZIP file</br>
       
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Download-Zip.png" width="350px;" /></br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Download-Zip.png" width="350px;" /></br>
       
       **2.** Find the downloaded .zip file on your computer, likely in your Downloads folder</br>
       
@@ -105,11 +105,11 @@ Download the project from github to your desktop:
       
           1. Launch ***MySQL Workbench*** and create a database with the following specifications
           
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Database-Table.png" width="700px"/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Database-Table.png" width="700px"/>
       
           2. Change the ***server***, ***database***, ***user*** and ***password*** values of the ***MySqlConnection*** function in the `Program.cs` file
           
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="MySQL-Connection.png" width="700px"/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/MySQL-Connection.png" width="700px"/>
           
           3. Correct all paths to folders in the `Program.cs` file
       
@@ -117,13 +117,13 @@ Download the project from github to your desktop:
       
           1. Replace the current localhost in ***HttpWebRequest*** by your localhost in the `MainWindow.xaml.cs` file
           
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="My-Localhost.png" width="700px"/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/My-Localhost.png" width="700px"/>
       
       - **Exercice 5 :** &nbsp;
 
           1. Replace the current localhost in ***HttpWebRequest*** by your localhost in the `MainWindow.xaml.cs` file
           
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="My-Localhost.png" width="700px"/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/My-Localhost.png" width="700px"/>
           
           2. Correct all paths to folders in the `MainWindow.xaml.cs` file   
 
