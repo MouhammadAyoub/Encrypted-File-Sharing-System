@@ -151,9 +151,9 @@ Download the project from github to your desktop:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Python-Script.png" width="550px"/>
 
-- ***Exercice 3 :*** &nbsp;ِAPI
+- ***Exercice 3 :*** &nbsp;API
 
-<img src="assets/images/Exercice3-Save.png" /></br>
+<img src="assets/images/Exercice3-Welcome.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
