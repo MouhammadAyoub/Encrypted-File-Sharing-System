@@ -151,7 +151,7 @@ Download the project from github to your desktop:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Python-Script.png" width="550px"/>
 
-- ***Exercice 3 :*** &nbsp;API
+- ***Exercice 3 :*** &nbsp;This is our web API which contains API functions that we have to use in other applications, and it is also the intermediate place where the file will be stored between office A and office B
 
 <img src="assets/images/Exercice3-Welcome.png" /></br>
 
