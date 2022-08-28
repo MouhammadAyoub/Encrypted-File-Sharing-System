@@ -115,7 +115,7 @@ Download the project from github to your desktop:
       
       - **Exercice 4 :** &nbsp;
       
-          1. Replace the current localhost in `HttpWebRequest` by your localhost
+          1. Replace the current localhost in ***HttpWebRequest*** by your localhost in the `MainWindow.xaml.cs` file
           
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="MySQL-Connection.png" width="700px"/>
       
