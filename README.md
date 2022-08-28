@@ -167,9 +167,21 @@ Download the project from github to your desktop:
 
 <img src="assets/images/Exercice3-Download.png" /></br>
 
-- ***Exercice 4 :*** &nbsp;Send
+- ***Exercice 4 :*** &nbsp;The function of this desktop application is to `Send The Files` of our choice to the web application for the purpose of storing it
 
 <img src="assets/images/Exercice4-Welcome.png" /></br>
+
+***Note :*** &nbsp;Send
+
+<img src="assets/images/Exercice4-Send.png" /></br>
+
+- ***Exercice 5 :*** &nbsp;Enter Name
+
+<img src="assets/images/Exercice5-Welcome.png" /></br>
+
+***Note :*** &nbsp;Download
+
+<img src="assets/images/Exercice5-Download.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
