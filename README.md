@@ -115,6 +115,10 @@ Download the project from github to your desktop:
       
       - **Exercice 4 :** &nbsp;
       
+          1. Replace the current localhost in `HttpWebRequest` by your localhost
+          
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="MySQL-Connection.png" width="700px"/>
+      
       - **Exercice 5 :** &nbsp;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
