@@ -131,7 +131,23 @@ Download the project from github to your desktop:
 
 ## Usage
 
-test test
+- ***Exercice 1 :*** &nbsp;The first step you need to do is to use the desktop application in Exercise 1 to `Encrypt The File` you want to send
+
+<img src="assets/images/Exercice1-Welcome.png" /></br>
+
+***Note :*** &nbsp;This is the content of the `File` we need to encrypt
+
+<img src="assets/images/Exercice1-Text.png" /></br>
+
+***Note :*** &nbsp;Once you choose the file to be encrypted, the Save button will become clickable, and by clicking on it you can choose where you want to save the encrypted file
+
+<img src="assets/images/Exercice1-Save.png" /></br>
+
+***Note :*** &nbsp;This is the content of the file that we saved `After Encrypting It`
+
+<img src="assets/images/Exercice1-Encrypted.png" /></br>
+
+- ***Exercice 2 :*** &nbsp;Nothing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
