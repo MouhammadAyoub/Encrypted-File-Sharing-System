@@ -2,7 +2,7 @@
 
 <img src="assets/images/icon.png" align="right" />
 
-# Encrypted-File-Sharing-System</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/CVs-repository)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/CVs-repository)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/CVs-repository)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/CVs-repository)
+# Encrypted-File-Sharing-System</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/Encrypted-File-Sharing-System)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/Encrypted-File-Sharing-System)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/Encrypted-File-Sharing-System)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/Encrypted-File-Sharing-System)
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
